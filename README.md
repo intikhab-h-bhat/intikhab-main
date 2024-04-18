@@ -21,4 +21,3 @@ This is the main repository.This repository will contains links for other reposi
 # 2. [Tooling and Scriptings](#)
 
 
-
