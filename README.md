@@ -11,9 +11,11 @@ This is the main repository.This repository will contains links for other reposi
 
 # 1.[Introduction to Programming](knowledgebase/intro-to-programming/1-introduction-to-programming.md)
 
-1. [What is Programming](knowledgebase/intro-to-programming/1.1-what-is-programming.md)
-2. [What are pseudocodes?]()
-3. [What are flowcharts]()
+
+>1. [What is Programming](knowledgebase/intro-to-programming/1.1-what-is-programming.md)
+>2. [What are pseudocodes?]()
+>3. [What are flowcharts]()
+
 
 # 2. [Tooling and Scriptings](#)
 
