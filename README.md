@@ -6,7 +6,7 @@ This is the main repository.This repository will contains links for other reposi
 
 | index | Title |
 | -------|--------|
-| 1 | [Introduction to Programming]() |
+| 1 | [Introduction to Programming](#) |
 | 2 | [Tooling and Scriptings]() |
 | 
 
@@ -14,6 +14,6 @@ This is the main repository.This repository will contains links for other reposi
 # 1. [Introduction to Programming]()
 
 
-# 2. [Tooling and Scriptings]()
+# 2. [Tooling and Scriptings](#)
 
 
