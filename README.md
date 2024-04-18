@@ -11,14 +11,10 @@ This is the main repository.This repository will contains links for other reposi
 | 2 | [Tooling and Scriptings]() |
 
 
-
 # 1. [Introduction to Programming]()
+
 1. [What is Programming?]()
 2. [What are pseudocodes?]()    
 3. [What are flowcharts]()
 
-
 # 2. [Tooling and Scriptings](#)
-
-
-
