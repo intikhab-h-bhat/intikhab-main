@@ -5,4 +5,4 @@ Programming is essentially giving instructions to a computer to perform certain 
 # Topics
 > 1. [What is Programming?](1.1-what-is-programming.md)
 > 2. [What are pseudocodes?](1.2-pseudocodes.md)
-> 3. [What are flowcharts](1.3-flowcharts.md)
+> 3. [What are flowcharts?](1.3-flowcharts.md)
