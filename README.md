@@ -23,6 +23,6 @@ This is the main repository.This repository will contains links for other reposi
 >2. [What is CSS]()
 >3. [What JavaScript]()
 
-# 2. [Flow Charts](#)
+# 2. [Flow Charts](https://github.com/intikhab-h-bhat/Flowcharts)
 
-# 3. [Pseudocodes](#)
+# 3. [Pseudocodes](https://github.com/intikhab-h-bhat/Pseudocodes)
