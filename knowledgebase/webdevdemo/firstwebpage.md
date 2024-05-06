@@ -35,14 +35,60 @@
 > 7. Putting It All Together: Creating a Simple Web Page
 > 8. Q&A and Further Resources
 
-### Introduction to Web Development
+### 1. Introduction to Web Development
 
 * Web development is the process of creating websites and web applications that are accessible via the internet.
 * It typically includes front-end development(designing the user interface), backend-end development (creating the server side logic and database connections).
 * Key technologies used in web development  include HTML, CSS, JavaScript etc
 
-### Overview of HTML, CSS, and JavaScript
- >>
- >> * **HTML** is the foundation of web development. It defines the structure and content of web pages using markup tags. HTML tags are used to create elements such as headings, paragraphs, images, links, and forms.
->> * **CSS** (Cascading Style Sheets): CSS is used to style HTML elements and define their appearance on the web page. It allows developers to control aspects like layout, colors, fonts, and spacing. CSS can be written inline, embedded within HTML, or in external style sheets.
->> * **JavaScript** is a versatile programming language used to add interactivity and dynamic behavior to web pages. It enables features like form validation, animations and more. Like CSS JavaScript can be embedded within HTML, or in external JavaScript file.
+### 2. Overview of HTML, CSS, and JavaScript
+
+* **HTML** is the foundation of web development. It defines the structure and content of web pages using markup tags. HTML tags are used to create elements such as headings, paragraphs, images, links, and forms.
+* **CSS** (Cascading Style Sheets): CSS is used to style HTML elements and define their appearance on the web page. It allows developers to control aspects like layout, colors, fonts, and spacing. CSS can be written inline, embedded within HTML, or in external style sheets.
+* **JavaScript** is a versatile programming language used to add interactivity and dynamic behavior to web pages. It enables features like form validation, animations and more. Like CSS JavaScript can be embedded within HTML, or in external JavaScript file.
+
+### 3. Setting Up Your Development Environment
+
+* Install Text Editor eg Sublime Text or Visual Studio Code for writing code.
+* Install Git: Git is a version control system used by developers to manage and track changes to codebases.
+
+### 4. HTML Basics
+
+* HTML Structure
+
+ ``` text
+<!DOCTYPE html>
+<html>
+<head>
+<title>Page Title</title>
+</head>
+<body>
+
+<h1>My First Heading</h1>
+<p>My first paragraph.</p>
+
+</body>
+</html>
+ ```
+
+* Creating HTML Elements: Headings, Paragraphs, Lists, and Images
+  
+  ```text
+  // Headings
+    <h1>First Web  Page</h1>
+ 
+  //Paragraphs
+  <p> First paragraph</p>
+  
+  //Lists
+  <ul>
+  <li>Coffee</li>
+  <li>Tea</li>
+  <li>Milk</li>
+  </ul>  
+
+  //Image tag
+  <img src="image1.jpg" alt="image">
+  
+  ```
+  
