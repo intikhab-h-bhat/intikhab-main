@@ -12,6 +12,9 @@
 > 2. GitHub Desktop
 > 3. Git
 
+## Information
+
+
 ## Agenda
 
 > 1. Introduction to Web Development
@@ -91,4 +94,5 @@
   <img src="image1.jpg" alt="image">
   
   ```
+  ![alt text](image.png)
   
