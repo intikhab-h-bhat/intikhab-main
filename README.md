@@ -18,6 +18,8 @@ This is the main repository.This repository will contains links for other reposi
 | 2 | [hcj-topnavbar](https://github.com/intikhab-h-bhat/hcj-topnavbar)| In this mini project Navbar  is created using HTML CSS and Javascript|
 |3|[color-hexa-generator](https://github.com/intikhab-h-bhat/color-hexa-generator)|
 |4|[cunter-app](https://github.com/intikhab-h-bhat/counter-app)|
+|5|[random-number](https://github.com/intikhab-h-bhat/random-number)|
+|6|[signup-signin](https://github.com/intikhab-h-bhat/signup-signin)|
 
 # 1. [Learn HTML CSS and JavaSript](https://github.com/intikhab-h-bhat/learn-html-css-javascript)
 
