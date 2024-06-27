@@ -21,6 +21,7 @@ This is the main repository.This repository will contains links for other reposi
 |5|[random-number](https://github.com/intikhab-h-bhat/random-number)|
 |6|[signup-signin](https://github.com/intikhab-h-bhat/signup-signin)|
 |7|[hcj-js-fetchapi](https://github.com/intikhab-h-bhat/hcj-js-fetchapi)|
+|8|[fetchapi-get-all](https://github.com/intikhab-h-bhat/fetchapi-get-all)|
  
 
 # 1. [Learn HTML CSS and JavaSript](https://github.com/intikhab-h-bhat/learn-html-css-javascript)
