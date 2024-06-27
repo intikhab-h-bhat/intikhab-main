@@ -22,7 +22,7 @@ This is the main repository.This repository will contains links for other reposi
 |6|[signup-signin](https://github.com/intikhab-h-bhat/signup-signin)|
 |7|[hcj-js-fetchapi](https://github.com/intikhab-h-bhat/hcj-js-fetchapi)|
 |8|[fetchapi-get-all](https://github.com/intikhab-h-bhat/fetchapi-get-all)|
-|9|[hcj-fetchapi-country](https://github.com/intikhab-h-bhat/hcj-fetchapi-country)|
+|9|[hcj-fetchapi-country](https://github.com/intikhab-h-bhat/hcj-fetchapi-country)| [Using fetch method to get country details](https://intikhab-h-bhat.github.io/hcj-fetchapi-country/src/)
  
 
 # 1. [Learn HTML CSS and JavaSript](https://github.com/intikhab-h-bhat/learn-html-css-javascript)
