@@ -17,7 +17,7 @@ This is the main repository.This repository will contains links for other reposi
 | 1 | [Starter](https://github.com/intikhab-h-bhat/starter) |[Starter project using HTML CSS and JavaSript](https://intikhab-h-bhat.github.io/starter/src/)|
 | 2 | [hcj-topnavbar](https://github.com/intikhab-h-bhat/hcj-topnavbar)|[In this mini project Navbar  is created using HTML CSS and Javascript](https://intikhab-h-bhat.github.io/hcj-topnavbar/src/)|
 |3|[color-hexa-generator](https://github.com/intikhab-h-bhat/color-hexa-generator)|
-|4|[cunter-app](https://github.com/intikhab-h-bhat/counter-app)|
+|4|[cunter-app](https://github.com/intikhab-h-bhat/counter-app)|[Using HTML CSS and JavaSript to create Counter app](https://intikhab-h-bhat.github.io/counter-app/src/)
 |5|[random-number](https://github.com/intikhab-h-bhat/random-number)|[Using HTML CSS and JavaSript to generate a random number form created](https://intikhab-h-bhat.github.io/random-number/src/)|
 |6|[signup-signin](https://github.com/intikhab-h-bhat/signup-signin)|[Using HTML CSS and JavaSript signup-signin form created](https://intikhab-h-bhat.github.io/signup-signin/src/)|
 |7|[hcj-js-fetchapi](https://github.com/intikhab-h-bhat/hcj-js-fetchapi)|[Using fetch method to get information of particular user ](https://intikhab-h-bhat.github.io/hcj-js-fetchapi/src/)
