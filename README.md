@@ -15,7 +15,7 @@ This is the main repository.This repository will contains links for other reposi
 | index | Title |Description|
 | -------|-------|-------|
 | 1 | [Starter](https://github.com/intikhab-h-bhat/starter) |[Starter project using HTML CSS and JavaSript](https://intikhab-h-bhat.github.io/starter/src/)|
-| 2 | [hcj-topnavbar](https://github.com/intikhab-h-bhat/hcj-topnavbar)| In this mini project Navbar  is created using HTML CSS and Javascript|
+| 2 | [hcj-topnavbar](https://github.com/intikhab-h-bhat/hcj-topnavbar)|[In this mini project Navbar  is created using HTML CSS and Javascript](https://intikhab-h-bhat.github.io/hcj-topnavbar/src/)|
 |3|[color-hexa-generator](https://github.com/intikhab-h-bhat/color-hexa-generator)|
 |4|[cunter-app](https://github.com/intikhab-h-bhat/counter-app)|
 |5|[random-number](https://github.com/intikhab-h-bhat/random-number)|[Using HTML CSS and JavaSript to generate a random number form created](https://intikhab-h-bhat.github.io/random-number/src/)|
